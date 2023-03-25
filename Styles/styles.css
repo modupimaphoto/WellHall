@@ -1,0 +1,27 @@
+.showcase{
+    background: url('../images/kalesma-mykonos.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.bg-pic{
+    background: url('../images/slate-kalesma-mykonos-greece-chp-1-p.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+.img-responsive{
+    width: 100%;
+}
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+.bg-black{
+    background-color: black;
+}
+@media screen and (max-width: 990px) {
+    .showcase{
+        height: auto;
+    }
+}
