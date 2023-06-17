@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.4da62354.css",
-    "main.js": "/static/js/main.dda0c8ab.js",
+    "main.css": "/static/css/main.a9252434.css",
+    "main.js": "/static/js/main.91c1b1d6.js",
+    "static/media/resort_pool.jpg": "/static/media/resort_pool.f821635ed29062c9080c.jpg",
+    "static/media/resort-unsplash.jpg": "/static/media/resort-unsplash.ae6f255f7f68df59bc83.jpg",
+    "static/media/lagoon_room.jpg": "/static/media/lagoon_room.ff7b67b9cf490f1edabb.jpg",
+    "static/media/grand_deluxe.png": "/static/media/grand_deluxe.d9ddafa6524a9585a045.png",
+    "static/media/deluxe_king.jpg": "/static/media/deluxe_king.31fd0109cc12488191f5.jpg",
+    "static/media/deluxe.jpg": "/static/media/deluxe.3375bb2e841f0861fa5d.jpg",
+    "static/media/loft_room.JPEG": "/static/media/loft_room.65425394c9c959272a6e.JPEG",
+    "static/media/superior_deluxe.jpg": "/static/media/superior_deluxe.50087670b4ff0b90a623.jpg",
+    "static/media/palm_room.JPEG": "/static/media/palm_room.7abd83d5426a08059aeb.JPEG",
+    "static/media/coral_room.jpg": "/static/media/coral_room.8a5ff4cae1f057be851b.jpg",
+    "static/media/zen_room.jpg": "/static/media/zen_room.a17ea11059d90bcef08a.jpg",
+    "static/media/massage_at_spa.jpg": "/static/media/massage_at_spa.e0e6a286e4e2149f0a20.jpg",
     "index.html": "/index.html",
-    "main.4da62354.css.map": "/static/css/main.4da62354.css.map",
-    "main.dda0c8ab.js.map": "/static/js/main.dda0c8ab.js.map"
+    "main.a9252434.css.map": "/static/css/main.a9252434.css.map",
+    "main.91c1b1d6.js.map": "/static/js/main.91c1b1d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4da62354.css",
-    "static/js/main.dda0c8ab.js"
+    "static/css/main.a9252434.css",
+    "static/js/main.91c1b1d6.js"
   ]
 }
